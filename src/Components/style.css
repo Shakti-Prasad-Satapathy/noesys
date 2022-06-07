@@ -1,0 +1,16 @@
+.main-Container {
+  height: fit-content;
+  width: fit-content;
+  border: 2px solid lightgray;
+  resize: both;
+  overflow: auto;
+  padding: 0rem 1.5rem 1.5rem 1.5rem;
+}
+.header {
+  margin: 0;
+  height: 3rem;
+  border-bottom: 1px solid gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
